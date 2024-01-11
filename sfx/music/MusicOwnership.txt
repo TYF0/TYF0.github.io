@@ -1,0 +1,60 @@
+Just a list of places where I found music that is used/downloaded.
+
+Presence of Music (http://www.presence-of-music.com/)
+	Evil Garden
+	Menu2 (Original name Legend)
+	Moonlight
+	QuietTown
+	Store
+	Village
+	ImperialCastle
+	PalaceInRuin
+	Spelunk
+	
+NewGrounds (http://www.newgrounds.com/)
+	RoseAtTwilight					http://www.newgrounds.com/audio/listen/193466
+	Virtual Winter					http://www.newgrounds.com/audio/listen/514479
+	IceCream							http://www.newgrounds.com/audio/listen/278089
+	Megaman 3 Remix				http://www.newgrounds.com/audio/listen/333059
+	Rose at Exlipse				http://www.newgrounds.com/audio/listen/450750
+	FU2_Issue1_Morax 				http://www.newgrounds.com/audio/listen/111530
+	Forest Adventure				http://www.newgrounds.com/audio/listen/576182
+	Warriors Of The Sky			http://www.newgrounds.com/audio/listen/591749  -Used For Davy
+	Enter the Woods				http://www.newgrounds.com/audio/listen/358526  -Used For Woodland
+	You'll Never Guess This!	http://www.newgrounds.com/audio/listen/359229  -Used For Shatters
+	Acruta Lao D'nor				http://www.newgrounds.com/audio/listen/359230  -Used For Shatters
+	Chased By Monsters			http://www.newgrounds.com/audio/listen/554049  -Used For Manor
+	Courtyard of Heaven			http://www.newgrounds.com/audio/listen/101965  -Used For Court
+	Shallow Water Game Loop		http://www.newgrounds.com/audio/listen/558383  -Used For Deadwater
+	Shallow Water Full Song		http://www.newgrounds.com/audio/listen/559315  -used For Deadwater Boss
+
+I Wanna Be The Boshy
+	Lalalalalalalala 	https://www.youtube.com/watch?v=ikXeVfJtZ0k		-Used for Boshy
+	Cheetahmen			https://www.youtube.com/watch?v=woNw5Dyqhzo		
+
+Bach (Long dead)
+	PuppetMasterFugue
+
+Other
+   Breathe in Scream out - Spor        https://www.youtube.com/watch?v=_XhaRGEc9aw
+	Elsword music - Epic Boss Theme		https://www.youtube.com/watch?v=solc9YG5bb8
+	Undersea Palace - Chrono Trigger		https://www.youtube.com/watch?v=iSP-_hNQyYs
+	HelloKitty									https://www.youtube.com/watch?v=2wOXO5TdvT4
+	MyHeartWillGoOn							https://www.youtube.com/watch?v=X2WH8mHJnhM
+	YOU ARE A PIRATE							https://www.youtube.com/watch?v=sn57Q8uGvic	-Used For Davy
+	Child of Light - Dark Creatures		http://vip.aersia.net/mu/childoflight-darkcreatures.m4a	-Used For Shatters
+	Ryu											https://www.youtube.com/watch?v=19dZab1inas
+	PacMan										https://www.youtube.com/watch?v=BoOX2_9Cblc
+	death_screen (mmm whacha say)			https://www.youtube.com/watch?v=UYIAfiVGluk
+	SpongebobThemeSong800Slower			https://www.youtube.com/watch?v=4Oyo4Bcy1Sc
+	SheBlindedMeWithScience					https://www.youtube.com/watch?v=-FIMvSp01C8
+	ImSorry										https://www.youtube.com/watch?v=RObH6cde_8Y -Used for victory in DDR
+	AuferstandenAusRuinen					https://www.youtube.com/watch?v=DTV92wqYjfA -Used for end boss in DDR
+	MoonlightHall								https://www.youtube.com/watch?v=QjIt9NmCzfc
+	Friction										https://www.youtube.com/watch?v=2P8laoe8jbU
+	JumpIntoBattle								https://www.youtube.com/watch?v=zngcXm-YYJ8
+	Wait											https://www.youtube.com/watch?v=xy_NKN75Jhw
+	Winter										https://www.youtube.com/watch?v=qzBNDTXZDbg
+  WormChase                 https://www.youtube.com/watch?v=k8BrU1yyDcs
+	
+All others were present in the Pheonix Source.
